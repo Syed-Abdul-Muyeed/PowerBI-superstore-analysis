@@ -28,5 +28,4 @@ Users can click on sub-categories in the scatter plot to access a detailed produ
 
 ---
 
-👩‍💻 **Prepared for:** W Beyond Power BI Role  
 📅 **Submission Date:** March 23, 2025
