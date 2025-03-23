@@ -17,6 +17,10 @@ This project analyzes the Superstore Sales dataset using **Power BI**, focusing 
 -  and profit ($30,517.34).
 - **Regional Performance**: South Region leads with $23,706.49 profit and West Region has the least ($22,686.86).
 
+## ✅ Drillthrough Feature (Scatter Plot):
+Implemented a drillthrough on the scatter plot visual that analyzes the impact of discounts on profit margins.
+Users can click on sub-categories in the scatter plot to access a detailed product-level breakdown on a dedicated page—offering deeper insights into products performance.
+
 ## 📈 Business Recommendations
 1. **Optimize Product Strategies**: Focus on high-profit products; review pricing for low-margin items.
 2. **Enhance Regional Performance**: Improve marketing in underperforming regions like the West.
