@@ -27,5 +27,5 @@ Users can click on sub-categories in the scatter plot to access a detailed produ
 3. **Improve Logistics**: Address slow delivery times in Texas and Illinois for better customer satisfaction.
 
 ---
-👩‍💻 **Prepared for:** W Beyond Power BI Role  
+👩‍💻 **Prepared for:** W Beyond
 📅 **Submission Date:** March 23, 2025
