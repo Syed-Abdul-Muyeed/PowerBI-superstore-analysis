@@ -9,7 +9,7 @@ This project analyzes the Superstore Sales dataset using **Power BI**, focusing 
 ## 📂 Repository Contents
 - **Superstore_Sales_Dashboard (.pbix)**: Interactive Power BI dashboard
 - **Report - Summarizing Key Insights (.docx)**: Summary of key findings and business recommendations
-- **Sales Dashboard (.png)**: Screenshot Of the Dashboard
+- **Sales Dashboard (.png)**: Screenshot of the Dashboard
 
 ## 📊 Key Insights
 - **Total Sales**: $514,292.93 | **Total Profit**: $92,305.79 | **Total Quantity Sold**: 5,491 units
